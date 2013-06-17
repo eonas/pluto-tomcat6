@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.eonas.portal</groupId>
     <artifactId>pluto-tomcat</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Tomcat6-Addon fuer Pluto-Support</name>
 
